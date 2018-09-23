@@ -1,7 +1,7 @@
 ## Aufgaben Bundeswettbewerb Mathe 1983, Runde 1
 
 1. Die Oberfläche eines Fußballs setzt sich aus schwarzen Fünfecken und
-weißen ¡ Sechsecken zusammen.
+weißen Sechsecken zusammen.
 An die Seiten eines jeden Fünfecks grenzen lauter Sechsecke,
  während an die Seiten eines jeden Sechsecks abwechselnd Fünfecke und Sechsecke grenzen.
  Man bestimme aus diesen Angaben über den Fußball die Anzahl seiner Fünfecke
